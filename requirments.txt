@@ -1,8 +1,0 @@
-streamlit
-pdfplumber
-docx2txt
-rapidfuzz
-scikit-learn
-pandas
-sentence-transformers
-numpy
