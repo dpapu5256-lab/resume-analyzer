@@ -21,15 +21,7 @@ Dashboard: Stores and displays a history of all evaluations in a local SQLite da
 
 Getting Started
 Prerequisites
-To run this application locally, you will need Python 3.7 or higher.
-
-Installation
-Clone this repository to your local machine.
-
-Bash
-
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+To run this application locally, you will need Python 3.7 or 
 Install the required Python packages. It is recommended to use a virtual environment.
 
 Bash
